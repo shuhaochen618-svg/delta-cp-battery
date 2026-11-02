@@ -1,0 +1,5 @@
+# Versions used for the paper's results; nearby versions should work.
+torch==2.0.1
+numpy==1.26.3
+scipy==1.16.3
+pandas>=1.5
